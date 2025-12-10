@@ -1,0 +1,7 @@
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "A high-fidelity, luxury interactive 3D Christmas experience featuring a morphing particle tree, polaroid uploads, and cinematic post-processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
